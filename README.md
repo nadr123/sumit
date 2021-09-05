@@ -1,5 +1,3 @@
 # sumit
 
-<code>
-  This is my first repository
-  </code>
+this is my hello world repository.
